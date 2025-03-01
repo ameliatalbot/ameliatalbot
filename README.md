@@ -2,9 +2,9 @@
 
 My name is Amelia (they/them) and I am a student at the University of Maryland, College Park.
 - 📚 I'm currently earning a dual degree in Computer Science (B.S.) and Theatre (B.A.)
-- 💻 My favorite coding languages at the moment are Java and Ruby
+- 💻 My favorite coding languages at the moment are Java and Python
 - 🎭 I like working on both the technical and performance sides of theatre
-- 🔦 Lighting and projections are my favorite since they combine both my passions
+- 🔦 Lighting and projections are my favorite since they combine both my passions, allowing me to program and create
 
 <!--
 **ameliatalbot/ameliatalbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
